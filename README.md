@@ -42,7 +42,7 @@
 <!-- <details> -->
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="vrushit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true" />
+[![Vrushit Bharucha's github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/vrushit/github-readme-stats)
 
 <br/>
 <br/>
