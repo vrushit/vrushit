@@ -4,7 +4,7 @@
 
 ## I'm a Student, Contributor, Developer, and Millennial!
 
-- 🔭 I’m currently working on a [Data Science and Machine Learning]!
+- 🔭 I’m currently working on a Data Science and Machine Learning!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn Data Science and Contribute more to Open Source projects
 - ⚡ Fun fact: I also love to do Media Works
