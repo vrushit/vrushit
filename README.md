@@ -2,6 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=vrushit.github.io&style=for-the-badge&url=https%3A%2F%2Fvrushit.github.io)](https://vrushit.github.io)
 
+# Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/vrushit/count.svg)
+
 ## I'm a Student, Contributor, Developer, and Millennial!
 
 - 🔭 I’m currently working on a Data Science and Machine Learning!
@@ -43,7 +47,9 @@
 
   <br/>
 
-[![Vrushit's github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Vrushit's github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Vrushit's github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight)
 
 ---
 
