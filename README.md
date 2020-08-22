@@ -49,7 +49,7 @@
 
 <!-- </details> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit)](https://github.com/vrushit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://vrushit.github.io
 [youtube]: https://www.youtube.com/channel/UCHpVix82VAT8uMjobjb4HEw
