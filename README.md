@@ -41,9 +41,9 @@
 <!-- <details> -->
   <summary>:zap: Github Stats</summary>
 
-[![Vrushit's github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
 
-<br/>
+[![Vrushit's github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
