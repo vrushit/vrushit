@@ -47,14 +47,13 @@
 
   <br/>
 
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight)] -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight" alt="Vrushit's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vrushit's github stats" />
 
 ---
 
 <!-- </details> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit&layout=compact" />
 
 [website]: https://vrushit.github.io
 [youtube]: https://www.youtube.com/channel/UCHpVix82VAT8uMjobjb4HEw
