@@ -35,7 +35,7 @@
 <!-- <details> -->
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="vrushit's Github Stats" src="https://github-readme-stats.vrushit.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="left" alt="vrushit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/>
 <br/>
