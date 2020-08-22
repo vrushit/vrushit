@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=vrushit.github.io&style=for-the-badge&url=https%3A%2F%2Fvrushit.github.io)](https://vrushit.github.io)
 
-## I'm a Student, Contributor, Developer, and !
+## I'm a Student, Contributor, Developer, and Millennial!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -34,19 +34,6 @@
 <br />
 
 ---
-
-<!-- <details> -->
-  <!-- <summary>:zap: Recent Github Activity</summary> -->
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
 
 <!-- <details> -->
   <summary>:zap: Github Stats</summary>
