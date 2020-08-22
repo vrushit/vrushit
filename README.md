@@ -40,8 +40,9 @@
 
   <img align="left" alt="vrushit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true" />
 <!-- </details> -->
+<br/>
 
-    [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit)](https://github.com/vrushit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit)](https://github.com/vrushit/github-readme-stats)
 
 [website]: https://vrushit.github.io
 [youtube]: https://www.youtube.com/channel/UCHpVix82VAT8uMjobjb4HEw
