@@ -37,6 +37,11 @@
 
   <img align="left" alt="vrushit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vrushit&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ---
 
 <!-- </details> -->
