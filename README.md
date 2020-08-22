@@ -49,8 +49,6 @@
 ---
 
 <!-- </details> -->
-<br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit)](https://github.com/vrushit/github-readme-stats)
 
