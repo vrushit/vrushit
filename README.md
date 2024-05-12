@@ -1,4 +1,4 @@
-### Hi there, I'm Vrushit Bharucha [website] 👋
+### Hi there, I'm Vrushit Bharucha👋
 
 [![Website](https://img.shields.io/website?label=vrushit.github.io&style=for-the-badge&url=https%3A%2F%2Fvrushit.github.io)](https://vrushit.github.io)
 
