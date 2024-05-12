@@ -6,19 +6,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/vrushit/count.svg)
 
-## I'm a Student, Contributor, Developer, and Millennial!
-
-- 🔭 I’m currently working on a Data Science and Machine Learning!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn Data Science and Contribute more to Open Source projects
-- ⚡ Fun fact: I also love to do Media Works
+## Passionate Software Engineer 
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -56,6 +50,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushit&layout=compact" />
 
 [website]: https://vrushit.github.io
-[youtube]: https://www.youtube.com/channel/UCHpVix82VAT8uMjobjb4HEw
-[instagram]: https://instagram.com/vrushit_30.09
 [linkedin]: https://www.linkedin.com/in/vrushit-bharucha
